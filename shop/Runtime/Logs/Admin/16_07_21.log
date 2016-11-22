@@ -1,0 +1,126 @@
+[ 2016-07-21T15:22:50+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist.html
+ERR: Syntax Error in template "E:/wamp/www/shop/shop/Admin/View\Goods\showlist.html"  on line 58 "&lt;td&gt;{$smarty.now|date_format&quot;}&lt;/td&gt;"  - Unexpected """, expected one of: "}" , " "
+
+[ 2016-07-21T15:22:57+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist.html
+ERR: Syntax Error in template "E:/wamp/www/shop/shop/Admin/View\Goods\showlist.html"  on line 58 "&lt;td&gt;{$smarty.now&quot;}&lt;/td&gt;"  - Unexpected """, expected one of: "}" , " "
+
+[ 2016-07-21T15:22:57+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist.html
+ERR: Syntax Error in template "E:/wamp/www/shop/shop/Admin/View\Goods\showlist.html"  on line 58 "&lt;td&gt;{$smarty.now&quot;}&lt;/td&gt;"  - Unexpected """, expected one of: "}" , " "
+
+[ 2016-07-21T15:22:57+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist.html
+ERR: Syntax Error in template "E:/wamp/www/shop/shop/Admin/View\Goods\showlist.html"  on line 58 "&lt;td&gt;{$smarty.now&quot;}&lt;/td&gt;"  - Unexpected """, expected one of: "}" , " "
+
+[ 2016-07-21T15:23:07+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist.html
+ERR: Syntax Error in template "E:/wamp/www/shop/shop/Admin/View\Goods\showlist.html"  on line 58 "&lt;td&gt;{$smarty.date&quot;}&lt;/td&gt;" $smarty.date is invalid
+
+[ 2016-07-21T15:23:07+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist.html
+ERR: Syntax Error in template "E:/wamp/www/shop/shop/Admin/View\Goods\showlist.html"  on line 58 "&lt;td&gt;{$smarty.date&quot;}&lt;/td&gt;" $smarty.date is invalid
+
+[ 2016-07-21T15:23:07+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist.html
+ERR: Syntax Error in template "E:/wamp/www/shop/shop/Admin/View\Goods\showlist.html"  on line 58 "&lt;td&gt;{$smarty.date&quot;}&lt;/td&gt;" $smarty.date is invalid
+
+[ 2016-07-21T16:36:11+08:00 ] ::1 /shop/shop/index.php/admin/manager/User_Login.css
+ERR: 非法操作:User_Login.css
+
+[ 2016-07-21T17:29:50+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:30:59+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:30:59+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:00+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:00+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:00+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:00+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:00+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:01+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:01+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:01+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:01+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:01+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:01+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:01+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:02+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:02+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:02+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:02+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:02+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:02+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:02+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:02+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:03+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:03+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:03+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:03+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:03+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:03+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:03+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:04+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:04+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:04+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-07-21T17:31:04+08:00 ] ::1 /shop/shop/index.php/Admin/Manager/verifyImg
+ERR: 非法操作:verifyImg
+

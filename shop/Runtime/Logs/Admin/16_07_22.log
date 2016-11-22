@@ -1,0 +1,338 @@
+[ 2016-07-22T14:59:58+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist/p/2.html
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:00:37+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:02:59+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:00+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:01+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:01+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:01+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:01+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:01+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:01+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:02+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:02+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:02+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:02+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:02+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:02+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:02+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:03+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:03+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:03+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:03+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:03+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:03+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:04+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:04+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:04+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:04+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:04+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:04+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:05+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:05+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:05+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:05+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:06+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:06+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:06+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:06+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:06+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:07+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:07+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:07+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:08+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:08+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T15:03:10+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/showlist
+ERR: 1064:Erreur de syntaxe près de '0, 7' à la ligne 1
+ [ SQL语句 ] : select * from sw_goodsLimit 0, 7
+
+[ 2016-07-22T16:20:30+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public/upload
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:21:46+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:21:46+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:21:47+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:21:47+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:21:47+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:21:47+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:21:47+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:21:48+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:21:48+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:21:48+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:22:01+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:22:01+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:22:01+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:22:01+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:22:02+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:22:02+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:22:17+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:22:21+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:22:25+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:26:55+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/shop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:26:56+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/shop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:26:56+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/shop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:26:56+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/shop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:26:57+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/shop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:26:57+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/shop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:26:58+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/shop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:26:58+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/shop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:26:58+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/SITE_URLshop/shop/public/
+ERR: 非法操作:SITE_URLshop
+
+[ 2016-07-22T16:27:45+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:27:45+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:27:46+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:27:46+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:27:46+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:28:26+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:28:37+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:28:37+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:28:38+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:28:38+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:30:40+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:30:41+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:31:16+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:31:17+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:31:17+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:31:18+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:31:28+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:32:40+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:34:32+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:34:32+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:34:32+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:34:33+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:34:33+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:38:37+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+
+[ 2016-07-22T16:38:40+08:00 ] ::1 /shop/shop/index.php/Admin/Goods/localhost/shop/shop/public/
+ERR: 非法操作:localhost
+

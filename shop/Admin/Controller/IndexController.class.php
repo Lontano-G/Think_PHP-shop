@@ -1,0 +1,63 @@
+<?php 
+
+	namespace Admin\Controller;
+	use Think\Controller;
+
+
+	class IndexController extends Controller{
+		function index(){
+			$this ->display();
+		}
+
+		//展示后台头部
+		function head(){
+			//获得当前系统都给我们提供了什么敞亮可以使用（系统和自定义的）
+			//get_defined_constants([true])
+			//true参数会把常量进行自动分组显示
+			// var_dump(get_defined_constants());
+			$this->display();
+		}
+		//展示左边页面
+		function left(){
+			//根据session用户id信息查询角色id信息
+			//根据session用户id信息查询角色id信息
+	        $sql = "select * from sw_manager where mg_id=".$_SESSION['mg_id'];
+	        $minfo = D()->query($sql);
+	        $role_id = $minfo[0]['mg_role_id'];
+	       
+	        //根据角色信息获得权限ids的信息
+	        $sql = "select * from sw_role where role_id=".$role_id;
+	        $rinfo = D()->query($sql);
+	        $auth_ids = $rinfo[0]['role_auth_ids'];
+			//根据$auth_ids 查询全部拥有全部的权限
+			//① 获得顶级权限
+	        $sql = "select * from sw_auth where auth_level=0 ";
+	        //如果是admin管理员要现实全部权限
+	        if($_SESSION['mg_id'] != 1){
+	            $sql .= " and auth_id in ($auth_ids)";
+	        }
+	        $p_info = D()->query($sql);
+	        //② 获得次顶级权限
+	        $sql = "select * from sw_auth where auth_level=1";
+	        //如果是admin管理员要现实全部权限
+	        if($_SESSION['mg_id'] != 1){
+	            $sql .= " and auth_id in ($auth_ids)";
+	        }
+	        $s_info = D()->query($sql);
+	        
+	        $this -> assign('pauth_info',$p_info);
+	        $this -> assign('sauth_info',$s_info);
+	        $this -> display();
+			
+
+			$this ->assign('pauth_info',$p_info);
+			$this ->assign('sauth_info',$s_info);
+
+			$this -> display();
+		}
+		//展示右边页面
+		function right(){
+			$this ->display();
+		}
+	}
+ ?>
